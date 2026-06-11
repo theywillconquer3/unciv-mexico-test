@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Mexico",
+    "leaderName": "Benito Juarez",
+    "adjective": ["Mexican"],
+    "preferredVictoryType": "Cultural",
+    "startIntroPart1": "Benito Juarez, defender of the republic and architect of reform, your people remember your resolve in the face of empire and disorder. From Oaxaca to Mexico City, you carried the cause of law, education, and sovereignty through some of the nation's most difficult years.",
+    "startIntroPart2": "President Juarez, Mexico looks again to your steady hand. Will you build a republic strong enough to endure the ages?",
+    "declaringWar": "We have exhausted patience. Mexico will defend its future.",
+    "attacked": "You mistake restraint for weakness. We will answer.",
+    "defeated": "The republic has fallen today, but its ideals will not be so easily buried.",
+    "introduction": "I am Benito Juarez of Mexico. Let us speak as free nations.",
+    "neutralHello": "Welcome. What matter brings you here?",
+    "hateHello": "Say what you must, and be brief.",
+    "tradeRequest": "A fair exchange may strengthen us both.",
+    "outerColor": [0, 104, 71],
+    "innerColor": [206, 17, 38],
+    "favoredReligion": "Christianity",
+    "uniqueName": "La Reforma",
+    "uniques": [
+      "[+1 Culture] from [University] buildings [in all cities]",
+      "[+1 Happiness] from [Courthouse] buildings [in all cities]"
+    ],
+    "cities": [
+      "Mexico City",
+      "Guadalajara",
+      "Monterrey",
+      "Puebla",
+      "Merida",
+      "Oaxaca",
+      "Veracruz",
+      "Leon",
+      "Tijuana",
+      "Queretaro",
+      "San Luis Potosi",
+      "Morelia",
+      "Chihuahua",
+      "Aguascalientes",
+      "Toluca",
+      "Hermosillo",
+      "Culiacan",
+      "Campeche",
+      "Zacatecas",
+      "Acapulco"
+    ],
+    "spyNames": [
+      "Jose",
+      "Maria",
+      "Luz",
+      "Emiliano",
+      "Adela",
+      "Carmen",
+      "Miguel",
+      "Dolores",
+      "Vicente",
+      "Rosario"
+    ]
+  }
+]

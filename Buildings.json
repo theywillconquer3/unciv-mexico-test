@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hacienda",
+    "replaces": "Water Mill",
+    "uniqueTo": "Mexico",
+    "food": 2,
+    "production": 1,
+    "gold": 1,
+    "maintenance": 1,
+    "hurryCostModifier": 25,
+    "requiredTech": "The Wheel",
+    "uniques": [
+      "Must be on [River]",
+      "[+1 Food] from [Wheat] tiles [in this city]",
+      "[+1 Food] from [Cattle] tiles [in this city]",
+      "[+1 Gold] from [Horses] tiles [in this city]"
+    ]
+  }
+]
